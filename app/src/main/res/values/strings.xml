@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MaterialDesign_SearchView_Toolbar</string>
+    <string name="searchHintText_searchToolbar">Search</string>
+</resources>
